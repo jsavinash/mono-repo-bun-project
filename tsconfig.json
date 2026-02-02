@@ -9,6 +9,8 @@
     { "path": "./packages/core" },
     { "path": "./packages/ui" },
     { "path": "./packages/ws-protocol" },
+    { "path": "./packages/data-structure" },
+    { "path": "./packages/algorithm" },
     { "path": "./scripts" }
   ]
 }
