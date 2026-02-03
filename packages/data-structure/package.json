@@ -9,7 +9,9 @@
   },
   "scripts": {
     "typecheck": "tsc --noEmit",
-    "dev": "bun run ./index.ts"
+    "dev": "bun run ./index.ts",
+    "inspect": "bun --inspect-wait ./index.ts"
+
 
   },
   "devDependencies": {
